@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Arrays
+{
+    internal class Class1
+    {
+        static void Main(string[] args)
+        {
+
+
+            string[] names = new string[3];
+            names[0] = "Arooj";
+            names[1] = "Amna";
+            names[2] = "Ali";
+
+            for (int i = 0; i < names.Length; i++)
+            {
+                Console.WriteLine("My name is " + names[i]);
+
+            }
+        }
+    }
+
+
+
+
+
+}
