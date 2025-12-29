@@ -7,7 +7,7 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
 
 ## Problems Details:
 
-###1. 2 Dimensional Array:
+### 2 Dimensional Array:
 
 .**File:** 2 dimensiona array program.cs 
 
@@ -17,7 +17,7 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
                .Nested Loop
                .Rows and Coloumns
 
-###2. 2 dimensional Array:
+### 2 dimensional Array:
 
 .**File:**  Program.cs 2 dimensional array
 
@@ -27,7 +27,7 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
                .Program Execution
                .Console Output
 
-###3. Inheritance:
+### Inheritance:
 .**File:** inheritance.cs
 
 .**Description:** In this file, the concept of inheritence demonstrate in which one class inherit the properties of another class.
@@ -37,7 +37,7 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
              .Derived Class
              .Object-Oriented Programming (OOP)
 
-###4. Single dimensional Array:
+### Single dimensional Array:
 .**File:** single dimensional array program.cs
 
 .**Description:** In this file, by using sinle dimensional array, we store and display the values.
@@ -45,7 +45,7 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
 .**Key Points:** .Single Dimensional Array
                   .For Loop
 
-###5. Students Grading system: 
+### Students Grading system: 
 
 .**File:** students grading system.cs
 
