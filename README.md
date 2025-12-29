@@ -7,48 +7,51 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
 
 ## Problems Details:
 
-##1. 2 Dimensional Array:
-.File: *2 dimensiona array program.cs 
+###1. 2 Dimensional Array:
 
-.Description: In this program, we used two dimensional array in which data is stored and access in the form of rows and coloumns.
+.**File:** 2 dimensiona array program.cs 
 
-.Key concepts: .Two dimensional arrays 
+.**Description:** In this program, we used two dimensional array in which data is stored and access in the form of rows and coloumns.
+
+.**Key concepts:** .Two dimensional arrays 
                .Nested Loop
                .Rows and Coloumns
 
-##2. 2 dimensional Array:
-.File:* Program.cs 2 dimensional array
+###2. 2 dimensional Array:
 
-.Description: In this file, the main execution file run this program and also show the output.
+.**File:**  Program.cs 2 dimensional array
 
-.Key Concepts: .Main Method
+.**Description:** In this file, the main execution file run this program and also show the output.
+
+.**Key Concepts:** .Main Method
                .Program Execution
                .Console Output
 
-##3. Inheritance:
-.File: *inheritance.cs
+###3. Inheritance:
+.**File:** inheritance.cs
 
-.Description: In this file, the concept of inheritence demonstrate in which one class inherit the properties of another class.
+.**Description:** In this file, the concept of inheritence demonstrate in which one class inherit the properties of another class.
 
-.Key Points: .Inheritance
+.**Key Points:** .Inheritance
              .Base Class
              .Derived Class
              .Object-Oriented Programming (OOP)
 
-##4. Single dimensional Array:
-.File: *single dimensional array program.cs
+###4. Single dimensional Array:
+.**File:** single dimensional array program.cs
 
-.Description: In this file, by using sinle dimensional array, we store and display the values.
+.**Description:** In this file, by using sinle dimensional array, we store and display the values.
 
-.Key Points: .Single Dimensional Array
-              .For Loop
+.**Key Points:** .Single Dimensional Array
+                  .For Loop
 
-##5. Students Grading system: 
-.File: *students grading system.cs
+###5. Students Grading system: 
 
-.Description: This program caculates the grades of students on the basis of their marks by using the conditional statements.
+.**File:** students grading system.cs
 
-.Key Points:  .Conditional Statements (if / else)
+.**Description:**  This program caculates the grades of students on the basis of their marks by using the conditional statements.
+
+.**Key Points:**  .Conditional Statements (if / else)
               .Variables
               .Logic Building
               .Real-life Problem Solving
