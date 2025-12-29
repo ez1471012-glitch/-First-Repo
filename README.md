@@ -35,7 +35,7 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
              .Derived Class
              .Object-Oriented Programming (OOP)
 
-## Sindle dimensional Array:
+## Single dimensional Array:
 .File: single dimensional array program.cs
 
 .Description: In this file, by using sinle dimensional array, we store and display the values.
@@ -56,7 +56,7 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
 ## How to Run:
 Open the visual studio. Then, load the file or project. 
 
-Run the File of main().oUtput show on the console.
+Run the File of main().Output show on the console.
 
 
 
