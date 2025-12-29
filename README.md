@@ -8,15 +8,19 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
 ## Problems Details:
 
 ## 2 Dimensional Array:
-# File: 2 dimensiona array program.cs 
-# Description: In this program, we used two dimensional array in which data is stored and access in the form of rows and coloumns.
-# Key concepts: .Two dimensional arrays 
+File: 2 dimensiona array program.cs 
+
+Description: In this program, we used two dimensional array in which data is stored and access in the form of rows and coloumns.
+
+Key concepts: .Two dimensional arrays 
                .Nested Loop
                .Rows and Coloumns
 
 ## 2 dimensional Array:
 .File: Program.cs 2 dimensional array
+
 .Description: In this file, the main execution file run this program and also show the output.
+
 .Key Concepts: .Main Method
                .Program Execution
                .Console Output
