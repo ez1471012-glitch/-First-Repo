@@ -7,8 +7,8 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
 
 ## Problems Details:
 
-## 2 Dimensional Array:
-.File: 2 dimensiona array program.cs 
+##1. 2 Dimensional Array:
+.File: *2 dimensiona array program.cs 
 
 .Description: In this program, we used two dimensional array in which data is stored and access in the form of rows and coloumns.
 
@@ -16,8 +16,8 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
                .Nested Loop
                .Rows and Coloumns
 
-## 2 dimensional Array:
-.File: Program.cs 2 dimensional array
+##2. 2 dimensional Array:
+.File:* Program.cs 2 dimensional array
 
 .Description: In this file, the main execution file run this program and also show the output.
 
@@ -25,8 +25,8 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
                .Program Execution
                .Console Output
 
-## Inheritance:
-.File: inheritance.cs
+##3. Inheritance:
+.File: *inheritance.cs
 
 .Description: In this file, the concept of inheritence demonstrate in which one class inherit the properties of another class.
 
@@ -35,16 +35,16 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
              .Derived Class
              .Object-Oriented Programming (OOP)
 
-## Single dimensional Array:
-.File: single dimensional array program.cs
+##4. Single dimensional Array:
+.File: *single dimensional array program.cs
 
 .Description: In this file, by using sinle dimensional array, we store and display the values.
 
 .Key Points: .Single Dimensional Array
               .For Loop
 
-## Students Grading system: 
-.File: students grading system.cs
+##5. Students Grading system: 
+.File: *students grading system.cs
 
 .Description: This program caculates the grades of students on the basis of their marks by using the conditional statements.
 
