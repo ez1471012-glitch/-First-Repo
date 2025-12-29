@@ -8,9 +8,9 @@ In this respository, we cover the basic concepts of arrays (single dimensional a
 ## Problems Details:
 
 ## 2 Dimensional Array:
-.File: 2 dimensiona array program.cs 
-.Description: In this program, we used two dimensional array in which data is stored and access in the form of rows and coloumns.
-.Key concepts: .Two dimensional arrays 
+# File: 2 dimensiona array program.cs 
+# Description: In this program, we used two dimensional array in which data is stored and access in the form of rows and coloumns.
+# Key concepts: .Two dimensional arrays 
                .Nested Loop
                .Rows and Coloumns
 
